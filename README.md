@@ -23,10 +23,17 @@
 <h2>b. En las harinas:</h2> 
 <img src="images/6.jpg" alt="" class="img-fluid img-rounded">
 <p>Centro Nacional de Alimentación y Nutrición- CENAN Fuente: elaboración propia. Área de Inspección y Muestreo-DECYTA-CENAN</p>
-<h3>5. Contenido nutricional de los Programas Sociales
+<h3>5. Contenido nutricional de los Programas Sociales</h3>
 <img src="images/7.jpg" alt="" class="img-fluid img-rounded">
 <p>Fuente: Área de Inspección y Muestreo-DECYTA-CENAN </p>
 
+<h3> Bibliografía </h3>
+<p>[1] Andina, Agencia Peruana de Noticias, “Midis: aprueban presupuesto de S/ 40 mllns para reducción de anemia y desnutrición” Lima, nov. 14. 2017.</p>
+<p>[2] Rev Cubana Hematol Inmunol Hemoter 2000;16(3):149-60 Instituto de Hematología e Inmunología , “Metabolismo del hierro”, MC. Mariela Forrellat Barrios, Dra. Hortensia Gautier du Défaix Gómez y Dra. Norma Fernández Delgado http://www.bvs.sld.cu/revistas/hih/vol16_3_00/hih01300.htm </p>
+<p>[3] GABRIELA GOTTAU, ¿Qué son y qué propiedades tienen los taninos? 24 Agosto 2009.</p>
+<p>[4] MedlinePlus “Sales de Fosfato” 01/24/2018.</p>
+<p>[5] Bioeco actual Miriam Martinez, “¿Qué son los fitatos y por qué son importantes en las dietas vegetarianas?” 30/10/2016.</p>
+<p>[6] SITUACION DE LA FORTIFICACION DE ALIMENTOS EN EL PERÚ- INSTITUTO NACIONAL DE SALUD CENTRO NACIONAL DE ALIMENTACION Y NUTRICION. OSCAR AQUINO VIVANCO DIRECTOR GENERAL. 2010 http://www.paho.org/nutricionydesarrollo/wp-content/uploads/2012/11/Oscar-Aquino-Situacion-de-la-Fortificacion-de-Alimentos-en-el-Peru.pdf </p>
 
 
 
