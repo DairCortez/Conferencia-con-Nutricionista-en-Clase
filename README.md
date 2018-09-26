@@ -25,7 +25,7 @@
 <p>Centro Nacional de Alimentación y Nutrición- CENAN Fuente: elaboración propia. Área de Inspección y Muestreo-DECYTA-CENAN</p>
 <h3>5. Contenido nutricional de los Programas Sociales
 <img src="images/7.jpg" alt="" class="img-fluid img-rounded">
-
+<p>Fuente: Área de Inspección y Muestreo-DECYTA-CENAN </p>
 
 
 
